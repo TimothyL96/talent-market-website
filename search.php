@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="stylesheet" type="text/css" href="css/search.css">
   </head>
   <body>
-    <h3>hssd<h3>
+    <section class="webdesigntuts-workshop">
+	<form action="" method="">
+		<input type="search" placeholder="Search...">
+		<button>Search</button>
+	</form>
+</section>
   </body>
   </html>
