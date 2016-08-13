@@ -6,8 +6,8 @@
   <body>
     <section class="webdesigntuts-workshop">
 	<form action="" method="">
-		<input type="search" placeholder="Search...">
-		<button>Search</button>
+		<input type="search" placeholder="MMU">
+		<button>Search Your College</button>
 	</form>
 </section>
   </body>
